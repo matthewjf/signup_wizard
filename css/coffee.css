@@ -1,4 +1,9 @@
 body {
-  background: url("https://cdn.shopify.com/s/files/1/1086/5518/t/38/assets/index_bg.jpg") no-repeat center;
+  background-image: url("https://cdn.shopify.com/s/files/1/1086/5518/t/38/assets/index_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 
+  min-height: 100vh;
+  margin: 0;
 }
